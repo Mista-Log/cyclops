@@ -26,6 +26,7 @@ export default function Home() {
     >
       <main>
         <div className={styles.landing}>
+<div></div>
           <img
             style={{
               left: "10%",
